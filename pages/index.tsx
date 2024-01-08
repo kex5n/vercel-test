@@ -1,4 +1,4 @@
-import { GetServerSideProps, GetServerSideProps, NextPage } from "next";
+import { GetServerSideProps, NextPage } from "next";
 import { useState } from "react";
 import styles from './index.module.css'
 
